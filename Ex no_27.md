@@ -1,5 +1,5 @@
 # EX 27 C program that demonstrates the use of typedef to create a new alias name for a data type.
-## DATE: 05/05/2006
+## DATE: 05/05/2025
 ## AIM:
 To write a C program that demonstrates the use of typedef to create a new alias name for a data type.
 

@@ -1,5 +1,5 @@
 # EX 28 C program that demonstrates the use of enum (enumeration) type to define and use named integer constants.
-## DATE: 05/05/2006
+## DATE: 05/05/2025
 ## AIM:
 To write a C program that demonstrates the use of enum (enumeration) type to define and use named integer constants.
 
